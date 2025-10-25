@@ -1,1 +1,0 @@
-# arte-y-comunicacion

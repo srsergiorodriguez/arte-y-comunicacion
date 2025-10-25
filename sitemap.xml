@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://srsergiorodriguez.github.io/arte-y-comunicación/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/</loc>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/arte-y-comunicacion.html</loc>
+<lastmod>2025-10-24T17:04:23-05:00</lastmod>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/editorial.html</loc>
+<lastmod>2025-10-24T17:05:35-05:00</lastmod>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/imagen.html</loc>
+<lastmod>2025-10-25T11:29:55-05:00</lastmod>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/sonido.html</loc>
+<lastmod>2025-10-24T17:05:29-05:00</lastmod>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/video.html</loc>
+<lastmod>2025-10-24T17:05:21-05:00</lastmod>
+</url>
+<url>
+<loc>https://srsergiorodriguez.github.io/arte-y-comunicación/web.html</loc>
+<lastmod>2025-10-25T11:32:21-05:00</lastmod>
+</url>
+</urlset>

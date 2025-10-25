@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://srsergiorodriguez.github.io/arte-y-comunicación",
+    "feed_url": "https://srsergiorodriguez.github.io/arte-y-comunicación/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sergio Rodríguez Gómez"
+    },
+    "items": [
+    ]
+}
